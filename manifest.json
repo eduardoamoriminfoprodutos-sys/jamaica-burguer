@@ -1,0 +1,25 @@
+{
+  "name": "Jamaica Burguer Delivery",
+  "short_name": "Jamaica Delivery",
+  "description": "Peça hambúrgueres, porções e bebidas do Jamaica Burguer com entrega ou retirada.",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0e0d0b",
+  "theme_color": "#0e0d0b",
+  "icons": [
+    {
+      "src": "assets/logo-jamaica.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/logo-jamaica.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ],
+  "scope": "./"
+}
